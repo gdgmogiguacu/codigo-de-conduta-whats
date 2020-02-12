@@ -67,7 +67,6 @@ Essa é a lista de moderadores e seus respectivos contatos no grupo:**
 * **Anderson Pelegrini**
 * **Daniel Moreira**
 * **Leonardo Sibela**
-* **Thiago Maltempi**
 
 ## Como participar do grupo?
 
