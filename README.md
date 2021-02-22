@@ -63,9 +63,6 @@ A moderação se reserva o direito de verificar a autenticidade de usuários sus
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
 Essa é a lista de moderadores e seus respectivos contatos no grupo:**
 
-* **Adriane Gonçalves**
-* **Anderson Pelegrini**
-* **Daniel Moreira**
 * **Leonardo Sibela**
 
 ## Como participar do grupo?
