@@ -64,14 +64,15 @@ A moderação se reserva o direito de verificar a autenticidade de usuários sus
 Essa é a lista de moderadores e seus respectivos contatos no grupo:**
 
 * **Leonardo Sibela**
+* **Maxwell Silva**
 
 ## Como participar do grupo?
 
 O Google Developer Group (GDG) Mogi Guaçu procura agregar conhecimento aos desenvolvedores da região e promove um ambiente de compartilhamento de informações e conhecimentos  através de palestras, encontros, codelabs e outras atividades. Esse grupo provê um local para que os membros possam interagir fora do evento, mas qualquer pessoa interessada na nossa comunidade (seguindo este código de conduta) é muito bem vindo.
 
-Para participar do grupo, acesse o link abaixo:
+Para participar do grupo, acesse o link abaixo, se identificar e aguardar para algum admin te adicionar no grupo oficial:
 
-[Link de convite do WhatsApp do GDG Mogi Guaçu](https://chat.whatsapp.com/J5AJY3snqUMAGZcqtvsmO9)
+[Link de convite do WhatsApp do GDG Mogi Guaçu](https://chat.whatsapp.com/KHsyq9oEcm55cQ1NcdBqua)
 
 ## Regras de etiqueta
 
